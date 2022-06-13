@@ -17,7 +17,7 @@
             android:id="@+id/btnScan"
             android:layout_width="fill_parent"
             android:layout_height="50dp"
-            android:text="Scan Your QR Code"
+            android:text="Escanea tu codigo QR 1"
             android:textAllCaps="false"
             android:textSize="16sp" />
 
